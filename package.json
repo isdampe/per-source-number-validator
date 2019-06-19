@@ -1,0 +1,22 @@
+{
+	"name": "per-source-number-validator",
+	"version": "1.0.0",
+	"description": "Validate source numbers in accordance with the Victorian Government's Pet Exchange Register",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/isdampe/per-source-number-validator.git"
+	},
+	"author": "isdampe",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/isdampe/per-source-number-validator/issues"
+	},
+	"homepage": "https://github.com/isdampe/per-source-number-validator#readme"
+}
