@@ -1,6 +1,6 @@
 {
 	"name": "per-source-number-validator",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Validate source numbers in accordance with the Victorian Government's Pet Exchange Register",
 	"main": "index.js",
 	"scripts": {
